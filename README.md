@@ -1,3 +1,6 @@
+you can see my portfolio:
+url:https://solid-code-folio.lovable.app
+------------------------------------------------------------
 # Dev Showcase
 
 act as an expert portfolio maker who has 10+year of expirence,
